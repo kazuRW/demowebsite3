@@ -48,7 +48,7 @@
     <header class="header_section">
       <div class="container-fluid">
         <nav class="navbar navbar-expand-lg custom_nav-container ">
-          <a class="navbar-brand" href="index.html">
+          <a class="navbar-brand" href="home">
             <span>
               Demo Website Halaman Kontak
             </span>
@@ -175,13 +175,13 @@
               Links
             </h4>
             <div class="info_links">
-              <a class="active" href="index.html">
+              <a class="active" href="home">
                 Home
               </a>
-              <a class="" href="about.html">
+              <a class="" href="about">
                 About
               </a>
-              <a class="" href="service.html">
+              <a class="" href="product">
                 Pelayanan Kami
               </a>
             </div>
